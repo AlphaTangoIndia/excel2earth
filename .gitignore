@@ -1,0 +1,5 @@
+*.vsto
+*.exe
+*.dll
+excel2earth/bin/
+excel2earth/publish/
